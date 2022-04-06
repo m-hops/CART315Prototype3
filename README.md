@@ -9,3 +9,8 @@ Questions for playtesters:
 3. Did you remember to drink water today?
 4. How does the speed and movement of the player feel?
 5. Other than the 2 obvious openings, did you find any other tears in the map?
+
+
+Design Hypothesis: Create an eviroment in which the player feels small and intimidated. A first person experience where the player must enter a spooky looking church and investigate it with their flashlight. This iteration will mostly focus on the initial scene and how it transitions to another. 
+
+Feedback conclusion: Players greatly enjoyed the initial outside area and the visuals that accompanied them. Their issues seem to arise when entering the church and that the area is too dark. Will need to attempt lighting adjustments for the next iteration.
